@@ -1,5 +1,17 @@
 ## Laravel Roles Permissions Admin - Spatie version
 
+if you face problam with this error
+
+  `PackageManifest.php line 122:
+                         
+  Undefined index: name PackageManifest.php line 122:
+                         
+  Undefined index: name `
+  
+  find solution in this link
+  https://stackoverflow.com/questions/61177995/laravel-packagemanifest-php-undefined-index-name
+  
+
 __Update October 2019__: this project was created in 2017 as Laravel 5.4 version, and now we upgraded it to Laravel 6 version, also changed the design theme from [AdminLTE](https://adminlte.io/) to [CoreUI](https://coreui.io)
 
 - - - - -
